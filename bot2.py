@@ -1,7 +1,7 @@
 import discord
 from discord.ext import commands
 import random
-
+#jfsdfjsdjkf
 print("lo que sea")
 # Configuración de intents para obtener el contenido de los mensajes
 intents = discord.Intents.default()
